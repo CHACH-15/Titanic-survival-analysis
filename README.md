@@ -1,7 +1,7 @@
 
 # 🚢 Titanic Survival Analysis
 
-🌐 Live Report: https://chach-15.github.io/Titanic-survival-analysis/
+# Live Report: https://chach-15.github.io/Titanic-survival-analysis/
 
 A machine learning project predicting passenger survival on the Titanic using Python. Covers the full data science pipeline — cleaning, EDA, feature engineering, and model comparison across three classifiers.
 
