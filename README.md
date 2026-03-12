@@ -1,6 +1,9 @@
 
 # 🚢 Titanic Survival Analysis
 
+🌐 Live Report
+👉 
+
 A machine learning project predicting passenger survival on the Titanic using Python. Covers the full data science pipeline — cleaning, EDA, feature engineering, and model comparison across three classifiers.
 
 ---
@@ -109,13 +112,13 @@ jupyter notebook TitanicPythonScript.ipynb
 - Test ensemble methods: Random Forest, Gradient Boosting
 - Tune Decision Tree depth to reduce overfitting
 
----
+
 
 ## 👤 Author
 
 **Chahd**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 moussaouichahd636@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chahd-moussaoui-5501302b6/)
 
 ---
 
