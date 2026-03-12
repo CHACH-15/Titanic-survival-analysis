@@ -15,7 +15,7 @@ titanic-survival-analysis/
 ├── data/
 │   ├── train.csv               # Training set (891 passengers)
 │   └── test.csv                # Test set (418 passengers)
-├── Titanic_Report.html         # Visual report with all charts
+├── index.html         # Visual report with all charts
 └── README.md
 ```
 
