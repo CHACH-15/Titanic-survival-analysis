@@ -121,6 +121,4 @@ jupyter notebook TitanicPythonScript.ipynb
 
 ---
 
-## 📄 Report
 
-A full visual report with all charts is available in [`Titanic_Report.html`](./Titanic_Report.html) — open it in any browser.
